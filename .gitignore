@@ -1,0 +1,18 @@
+# C++ build outputs
+*.out
+*.exe
+*.o
+*.obj
+*.dSYM/
+a.out
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.tmp
