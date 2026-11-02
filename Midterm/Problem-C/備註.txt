@@ -1,0 +1,6 @@
+C大題的兩題分別使用不同data.txt
+C-1使用data-c1.txt
+C-2使用data-c2.txt
+已經寫在程式裡面直接執行就可以了
+
+C-2 的 Sample Input 2 應該錯了
