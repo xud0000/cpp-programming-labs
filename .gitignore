@@ -5,6 +5,7 @@
 *.obj
 *.dSYM/
 a.out
+Midterm/**/[A-C]-[0-9]
 
 # macOS
 .DS_Store
